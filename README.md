@@ -1,5 +1,5 @@
 # Javascript Alert App
-โปรเจคเว็บแอพฯ จัดทําโดย (ชื่อ)
+โปรเจคเว็บแอพฯ จัดทําโดย (Korawich Sanjaiwut)
 
 Features
 - List 1
